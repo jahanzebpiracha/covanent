@@ -1,4 +1,4 @@
-# Use the official Prometheus image from Docker Hub
+# Use the official Prometheus image from Docker Hub.
 FROM prom/prometheus:latest
 
 # Copy your Prometheus configuration (prometheus.yml) into the container
